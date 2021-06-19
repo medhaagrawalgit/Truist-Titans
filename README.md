@@ -102,7 +102,8 @@ Solution proposed:
 The key to reduce food wastage in Restaurants lies in accurate forecasting. 
 Accurate forecasting of consumer demand, especially aided by the use of food waste data tracking software, can help limit overbuying of inventory. Forecasting for restaurants helps you get the most out of the data available to you, both in day-to-day decisions and long-term planning. For restaurant owners and operators always thinking two steps ahead, forecasting restaurant sales can be a key tool for meeting future challenges.
 
-Architectural Diagram
+Video Link : https://www.youtube.com/watch?v=KNcCHUkbsik
+
 
  
 
